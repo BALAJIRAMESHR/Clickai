@@ -1,0 +1,175 @@
+.container {
+  margin-top: 100px;
+  width: 100%;
+  text-align: center;
+}
+
+.header {
+  margin: auto 100px;
+  font-family: "adineue PRO";
+  font-size: 64px;
+  font-weight: 700;
+  line-height: 65.39px;
+  text-align: left;
+  margin-bottom: 50px;
+}
+
+.header .line {
+  display: inline-block;
+  width: 100%;
+}
+
+.highlight-orange {
+  color: #fbb040;
+}
+
+.highlight-yellow {
+  color: #ffd700;
+}
+
+.cards-container {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 40px;
+}
+
+.card {
+margin: 20px 30px;
+  border-radius: 10px;
+  padding: 30px 50px;
+  width: 30%;
+     box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+
+.card img {
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+
+.card h3 {
+     font-size: 1.2rem;
+     margin-bottom: 15px;
+}
+
+.card h3.orange {
+     font-family: Outfit;
+          font-size: 30px;
+          font-weight: 500;
+          line-height: 37.8px;
+          text-align: left;
+          color: #75511E;
+
+}
+
+.card h3.yellow {
+     font-family: Outfit;
+          font-size: 30px;
+          font-weight: 500;
+          line-height: 37.8px;
+          text-align: left;
+          color: #109A6D;
+ 
+}
+
+
+.card h3.purple {
+     font-family: Outfit;
+          font-size: 30px;
+          font-weight: 500;
+          line-height: 37.8px;
+          text-align: left;
+          color: #1F0F61;
+}
+
+.card p {
+font-family: Outfit;
+     font-size: 19px;
+     font-weight: 300;
+     line-height: 27.72px;
+     text-align: left;
+     color: #000000;
+}
+
+.card .author {
+font-family: Outfit;
+     font-size: 24px;
+     font-weight: 500;
+     line-height: 30.24px;
+     text-align: left;
+     color: #000000;
+    
+}
+
+.card .author img {
+width: 85px;
+     height: 85px;
+     top: 8248px;
+     left: 55px;
+     gap: 0px;
+     opacity: 0px;
+}
+
+.card-green {
+  background: #f3ffd0;
+}
+
+.card-light-green {
+  background: #e0ffe6;
+}
+
+.card-light-purple {
+  background: #f0e6ff;
+}
+
+.card-header-green {
+font-family: Outfit;
+     font-size: 30px;
+     font-weight: 500;
+     line-height: 37.8px;
+     text-align: left;
+     color:  #75511E;
+}
+
+.card-header-light-green {
+  background-color: #a0f0a0;
+  padding: 10px;
+  color: white;
+  border-radius: 10px 10px 0 0;
+}
+
+.card-header-light-purple {
+  background-color: #c0a8f0; 
+  padding: 10px;
+  color: white;
+  border-radius: 10px 10px 0 0;
+}
+
+.stats-container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 100px;
+  margin-bottom: 150px;
+}
+
+.stats-container .stat {
+font-family: adineue PRO;
+     font-size: 100px;
+     font-weight: 700;
+     line-height: 117.8px;
+     text-align: left;
+     color: #F07B3F;
+}
+
+.stats-container .stat span {
+font-family: Outfit;
+     font-size: 24px;
+     font-weight: 600;
+     line-height: 30.24px;
+     text-align: left;
+     color: #000000;
+}
+
+

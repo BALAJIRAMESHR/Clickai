@@ -1,0 +1,36 @@
+.hero-section {
+     /* background-color: ; */
+     padding: 100px 100px;
+}
+
+.hero-section h1 {
+     font-family: adineue PRO;
+          font-size: 64px;
+          font-weight: 700;
+          line-height: 75.39px;
+          text-align: left;
+          color: #177BE5;
+          max-width: 700px;
+     
+}
+
+.hero-section p {
+     font-family: Outfit;
+          font-size: 24px;
+          font-weight: 400;
+          line-height: 30.24px;
+          text-align: left;
+          color: #000000;
+          max-width: 500px;
+
+}
+
+.request-demo {
+     background: #EC2265;
+     color: #fff;
+     border: none;
+     border-radius: 20px;
+     padding: 15px 30px;
+     font-size: 16px;
+     cursor: pointer;
+}
